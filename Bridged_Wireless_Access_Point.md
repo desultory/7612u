@@ -171,7 +171,7 @@ Reduce overall power consumption and overclock the CPU a modest amount.
 
 Note: All items in this step are optional and some items are specific to the
 Raspberry Pi 4B. If installing to a Raspberry Pi 3B or 3B+ or other Pi you will
-need to use the appropriate settings for that hardward.
+need to use the appropriate settings for that hardware.
 
 ```
 sudo nano /boot/config.txt
